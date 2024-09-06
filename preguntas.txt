@@ -1,0 +1,15 @@
+¿Cuál es el punto más débil de PGP?
+gestion de clave
+
+¿Cuándo es conveniente utilizar solamente cifrado simétrico?
+que se peude usar con cualquyier archivo pero preferiblemente grande
+
+¿En qué consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+
+planificacion:se identifican los requisitos del proyecto y se define su alcance
+analisis de requisitos:se recogen y documentan los requisistos del sistema
+diseño:se crea l arquitectura y el diseño detallado del software
+desarrollo:los programadores escriben el codigo de software
+pruebas:se verifica y valida el software para asegurar su calidad
+implementacion:el software se despliega y se pone en produccion
+mantenimiento:se realizan actualizaciones y correcciones una vez el software este en uso.
